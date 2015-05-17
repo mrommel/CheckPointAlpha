@@ -1,0 +1,16 @@
+route_id,start,finish,start_lat,start_lon,finish_lat,finish_lon,ORS shortest,link,length,time,Cyclestreets fast/balanced/quiet,link,length,time,length,time,length,time,MapQuest Bike,link,length,time
+1,Wimbledon Village,Richmond,51.4255243,-0.2202636,51.4507353,-0.2966726,,"http://openrouteservice.org/index.php?start=-0.2202636,51.4255243&end=-0.2966726,51.4507353&pref=Bicycle&lang=en",8,29,,http://www.cyclestreets.net/journey/38475263/,8.08,29,8.21,31,8.3,33,,http://mapq.st/I5al98,10.58,30
+2,Battersea Park,Great Portland Street,51.4747943,-0.1634746,51.5223432,-0.1564215,,"http://openrouteservice.org/index.php?start=-0.1634746,51.4747943&end=-0.1564215,51.5223432&pref=Bicycle&lang=en",6.8,25,,http://www.cyclestreets.net/journey/38475332/,6.98,28,7.48,29,7.68,31,,http://mapq.st/I5bw8B,7.5,22
+3,Putney,Upper Ground,51.4572562,-0.2142662,51.5072569,-0.1103628,,"http://openrouteservice.org/index.php?start=-0.2142662,51.4572562&end=-0.1103628,51.5072569&pref=Bicycle&lang=en",10.9,40,,http://www.cyclestreets.net/journey/38475335/,10.66,39,11.37,41,11.17,124,,http://mapq.st/I5cK3V,11.46,36
+4,Tower Bridge,Streatham Hill,51.5047938,-0.0758105,51.4378296,-0.1221591,,"http://openrouteservice.org/index.php?start=-0.0758105,51.5047938&end=-0.1221591,51.4378296&pref=Bicycle&lang=en",10.3,38,,http://www.cyclestreets.net/journey/38475343/,9.95,44,11.34,47,11.32,48,,http://mapq.st/I5cZff,10.62,33
+5,Wandsworth,Carshalton,51.4527687,-0.1937415,51.367849,-0.162652,,"http://openrouteservice.org/index.php?start=-0.1937415,51.4527687&end=-0.162652,51.367849&pref=Bicycle&lang=en",11,40,,http://www.cyclestreets.net/journey/38475355/,11.12,42,12.69,46,12.71,46,,http://mapq.st/I5dJRw,13.58,41
+6,Putney,Exhibition Road,51.4571304,-0.2135813,51.498546,-0.1741635,,"http://openrouteservice.org/index.php?start=-0.2135813,51.4571304&end=-0.1741635,51.498546&pref=Bicycle&lang=en",6.6,24,,http://www.cyclestreets.net/journey/38475359/,6.55,24,7.29,25,7.13,30,,http://mapq.st/I5dUMF,6.66,22
+7,Addington,Redhill,51.3340318,-0.0002874,51.2399136,-0.1656778,,"http://openrouteservice.org/index.php?start=-2.874E-4,51.3340318&end=-0.1656778,51.2399136&pref=Bicycle&lang=en",21.7,80,,http://www.cyclestreets.net/journey/38475361/,20.26,78,19.67,96,20.22,112,,http://mapq.st/I5eav2,22.3,59
+8,Winchester,QECP,51.0675602,-1.3194007,50.9629338,-0.9793288,,"http://openrouteservice.org/index.php?start=-1.3194007,51.0675602&end=-0.9793288,50.9629338&pref=Bicycle&lang=en",32.2,119,,http://www.cyclestreets.net/journey/38475363/,32.32,135,32.77,135,33.96,195,,http://mapq.st/I5eiuL,35.57,97
+9,Coldharbour,Peaslake,51.1841922,-0.3544574,51.1916698,-0.4465537,,"http://openrouteservice.org/index.php?start=-0.3544574,51.1841922&end=-0.4465537,51.1916698&pref=Bicycle&lang=en",8.5,32,,http://www.cyclestreets.net/journey/38475370/,10.51,42,10.51,42,10.51,42,,http://mapq.st/1fYk8cM,10.44,29
+10,Hampton Court,Windsor,51.4030893,-0.3397411,51.4850524,-0.6075222,,"http://openrouteservice.org/index.php?start=-0.3397411,51.4030893&end=-0.6075222,51.4850524&pref=Bicycle&lang=en",26.4,99,,http://www.cyclestreets.net/journey/38475377/,24.42,82,28.39,93,30.86,110,,http://mapq.st/1fYkfVX,31.28,85
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,142.4,526,,,140.85,543,149.72,585,153.86,771,,,159.99,454

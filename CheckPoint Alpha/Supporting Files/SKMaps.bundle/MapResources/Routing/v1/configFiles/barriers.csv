@@ -1,0 +1,12 @@
+key,value,mode,delay
+barrier,gate,walk,20
+barrier,bollard,ride,5
+barrier,lift_gate,ride,15
+barrier,stile,carry,30
+barrier,cycle_barrier,walk,10
+barrier,block,ride,5
+barrier,toll_booth,ride,10
+barrier,kissing_gate,walk,30
+barrier,cattle_grid,ride,5
+barrier,turnstile,carry,30
+barrier,chain,carry,10

@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  CheckPoint Alpha
+
+  Created by Michael Rommel on 10.11.14.
+  Copyright (c) 2014 Michael Rommel. All rights reserved.
+*/
+
+// Alert view
+"alert.cancel.title.text" = "CANCEL";
+"alert.cancel.description.text" = "All changes will be lost";
+"alert.saved.title.text" = "SAVED!";
+"alert.saved.description.text" = "Changes will be transferred\nto your NYON Display\nat next synchronisation";
+"alert.savedPassword.description.text" = "Your password has been changed successfully";
+"alert.reset.title.text" = "RESET?";
+"alert.reset.description.text" = "Custom Riding Modes will\nbe reset to factory defaults";
+"alert.error.title.text" = "ERROR";
+"alert.info.title.text" = "INFO";
+"alert.unexpectedError.title" = "WE'RE SORRY";
+"alert.saveError.description.text" = "We could not complete your request due to an unknown error";
+"alert.searchError.description.text" = "The searched address was not found";
+"alert.connectionError.description.text"="Please make sure your phone is connected to the internet first.";
+"alert.retry.title.text" = "RETRY";
+"alert.routeCalculation.description.text" = "Route could not be calculated";
+"alert.sync.failed.description" = "Sync request has failed";
+"alert.option.disabled.description" = "This feature is not available. Please update Nyon software.";
+"alert.regions.mapProductsIds.fail.text" = "Obtaining details about regions has failed";
+"alert.shop.licenses.fail.text" = "Purchase license has failed";
+"alert.bike.delete.title.text" = "DELETE EBIKE";
+"alert.bike.delete.description.text" = "All unsynced bike data will be lost. Are you sure you want to delete this eBike?";
+"alert.bike.delete.success.text" = "Your eBike\nwas successfully deleted";
+"alert.bike.delete.fail.text" = "eBike cannot be removed";
+"alert.shop.request.title.text" = "App Store";
+"alert.shop.request.fail.text" = "Obtaining details from App Store has failed";
+"alert.shop.purchase.fail.text" = "Failed to purchase the product";
+"alert.deleteMap.title.text" = "DELETE MAP DATA";
+"alert.cancelDownload.message.text" = "Do you want to cancel the download?";
+"alert.deleteMap.fail.message.text" = "Delete Failed!";
+"alert.license.buy.title.text" = "NO LICENSE";
+"alert.license.buy.message.text" = "Routing Licenses for the following countries:\n%@ are required";
+"alert.license.buy.button.text" = "BUY";
